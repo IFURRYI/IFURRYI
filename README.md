@@ -6,6 +6,9 @@
 I am an aspiring programmer who is studying to become a web/multimedia application developer.
 I am interested in game development, programming, 3D modeling, drawing, anime and much more.
 ## Языки программирования, на которых я пишу/Programming languages ​​I write in
+[![C#](https://img.shields.io/badge/-C%23-informational?logo=Csharp&style=flat&logoColor=ffffff&color=00ff00&labelColor=00ff00)]
+[![C++](https://img.shields.io/badge/-C++-informational?logo=Cplusplus&style=flat&logoColor=ffffff&color=004cff&labelColor=004cff)] и немного/and a little bit
+[![JS](https://img.shields.io/badge/-JavaScript-informational?logo=JavaScript&style=flat&logoColor=ffffff&color=efd84f&labelColor=efd84f)]
 ## Что планирую делать на Github/What I plan to do on Github
 ## Что планируешь в будующем?/What are your plans for the future?
 ## Я в.../I'm in...
