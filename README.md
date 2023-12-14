@@ -10,3 +10,4 @@ I am interested in game development, programming, 3D modeling, drawing, anime an
 ## Что планируешь в будующем?/What are your plans for the future?
 ## Я в.../I'm in...
 [![VK](https://img.shields.io/badge/-VK-informational?logo=Vk&style=flat&logoColor=ffffff&color=1082c3&labelColor=1082c3)](https://vk.com/ifurryi)
+[![Discord](https://img.shields.io/badge/-Discord-informational?logo=discord&style=flat&logoColor=ffffff&color=778cd5&labelColor=778cd5)](https://discordapp.com/users/261097978176077824/)
