@@ -1,4 +1,5 @@
-## Hello everyone! <img src="https://media1.tenor.com/m/wvkN1uM6EsoAAAAC/senko.gif">
+## Hello everyone! 
+<img src="/assetc/senko-welcome.gif">
 ## Обо мне/About me <img src="/assets/mofu-senko.gif" width="40">
 Я начинающий программист, который учится на разработчика веб/мультимедийных приложений.
 Я увлекаюсь геймдевом, программированием, 3д моделированием, рисованием, аниме и многим другим.
