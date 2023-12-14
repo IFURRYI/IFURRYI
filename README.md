@@ -9,3 +9,4 @@ I am interested in game development, programming, 3D modeling, drawing, anime an
 ## Что планирую делать на Github/What I plan to do on Github
 ## Что планируешь в будующем?/What are your plans for the future?
 ## Я в.../I'm in...
+[![VK](https://img.shields.io/badge/-VK-informational?logo=Vk&style=flat&logoColor=ffffff&color=1082c3&labelColor=1082c3)](https://vk.com/ifurryi)
