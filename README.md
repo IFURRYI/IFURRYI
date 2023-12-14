@@ -6,3 +6,6 @@
 I am an aspiring programmer who is studying to become a web/multimedia application developer.
 I am interested in game development, programming, 3D modeling, drawing, anime and much more.
 ## Языки программирования, на которых я пишу/Programming languages ​​I write in
+## Что планирую делать на Github/What I plan to do on Github
+## Что планируешь в будующем?/What are your plans for the future?
+## Я в.../I'm in...
