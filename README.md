@@ -4,10 +4,10 @@
 </p>
 
 ## Обо мне/About me <img src="/assets/senko_sit.gif" width="40">
-Меня зовут Роман. Я начинающий программист, который учится на разработчика веб/мультимедийных приложений.
+Меня зовут Роман. Мне 18 лет и я начинающий программист, который учится на разработчика веб/мультимедийных приложений.
 Я увлекаюсь геймдевом, программированием, 3д моделированием, рисованием, аниме и многим другим.
 
-My name is Roman. I am an aspiring programmer who is studying to become a web/multimedia application developer.
+My name is Roman. I'm 18 years old and I am an aspiring programmer who is studying to become a web/multimedia application developer.
 I am interested in game development, programming, 3D modeling, drawing, anime and much more.
 ## Языки программирования, на которых я пишу/Programming languages ​​I write in
 ![C#](https://img.shields.io/badge/-C%23-informational?logo=Csharp&style=flat&logoColor=ffffff&color=00ff00&labelColor=00ff00)
